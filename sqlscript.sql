@@ -1,1 +1,1 @@
-Select SYSDATE
+SELECT GETDATE();
